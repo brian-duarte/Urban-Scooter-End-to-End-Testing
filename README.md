@@ -16,6 +16,7 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 #### 🌐 Platform Web:
 * **📋 Requirements-Platform Web:** [View Functional Requirements (PDF)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/Requisitos_de_aplicaciones_web.pdf)
 * **🎨 UI/UX Design:** [Figma Interactive Prototype](https://www.figma.com/design/r070o8mwcFMhl5ulm8sjfE/Urban-Scooter-WEB?node-id=0-1&p=f)
+*  ** [Urban-Scooter-Web-Application](https://drive.google.com/file/d/1KROsPqhYYg0pD_6-tgtp1UiGSFosrjEE/view?usp=sharing)
 
 #### 📱 Mobile App:
 
