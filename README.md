@@ -8,7 +8,7 @@
 ---
 
 ## 📋 Project Description
-This project focuses on the quality assurance process for the "Urban Scooter" application. It includes the design and execution of **test cases,** bug reporting in **Jira,** and **API validation,** **Cross-browser testing** (Opera and Chrome) and Mobile testing.
+This project focuses on the quality assurance process for the "Urban Scooter" application. It includes the design and execution of **test cases,** bug reporting in **Jira,** and **API validation,** **Cross-browser testing** (Opera and Chrome), **Mobile testing** and **SQL database validation**.
 
 ---
 
