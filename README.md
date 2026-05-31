@@ -25,6 +25,10 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 
 * 📦 [Download Apk](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/ESP/UrbanScooterESP.apk)
 
+#### 🗄️ SQL DataBase:
+
+* [scooter_rent_database_queries.sql](scripts/scooter_rent_database_queries.sql)
+
 <details>
     <summary><b><i>Click here to view 🚀 API Documentation</i></b></summary><br>
 
