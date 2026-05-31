@@ -107,4 +107,16 @@ https://github.com/user-attachments/assets/9bbe59e1-3273-41f9-a6dc-9b710c3df4a5
 </tr>
 </table>
 
+---
 
+## 📊 Test Execution Metrics
+
+| Metric | Result |
+|----------|----------:|
+| Functional Tests Executed | 102 |
+| Data Validation Scenarios | 128 |
+| Mobile Test Cases | 14 |
+| API Requests Validated | 83 |
+| Total Test Scenarios | 327 |
+| Defects Identified | 50+ |
+| Platforms Covered | Web, Mobile, API, Database |
