@@ -120,3 +120,12 @@ https://github.com/user-attachments/assets/9bbe59e1-3273-41f9-a6dc-9b710c3df4a5
 | Total Test Scenarios | `327` |
 | Defects Identified | `50+` |
 | Platforms Covered | `Web, Mobile, API, Database` |
+
+---
+
+## 📂 Project Documentation
+[Defect-Report-Links](./docs/Defect-Report-Links.docx)
+
+[Test-Cases-Checklists](docs/Test-Cases-Checklists.xlsx)
+
+[Jira links](https://brian772233.atlassian.net/jira/software/c/projects/S1PF/issues?jql=project+%3D+S1PF+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMzI5MTc5NWM0NDA0NDFiNWE3MThiZGU4NmNkNjk3ZTEiLCJwIjoiaiJ9)
