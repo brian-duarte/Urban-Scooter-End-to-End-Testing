@@ -29,19 +29,21 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
     <summary><b><i>Click here to view 🚀 API Documentation</i></b></summary><br>
 
    **🚀 API Documentation (Endpoints):**
-   The project interacts with REST (JSON) and SOAP services. Below is an example of the **warehouse and service validation:**
+   
+  The project includes REST API validation for courier and order management services.
 
 | Endpoint | Method | Format | Auth | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| `/big-world/wsdl` | POST | SOAP (XML) | NONE | Stock check for the "Big World" warehouse. |
-| `/api/v1/users` | POST | JSON | NONE | User account creation. |
-| `/api/v1/kits` | POST | JSON | Bearer Token | Custom kit creation and product grouping validation. |
-| `/api/v1/kits/:id/products` | POST | JSON | NONE | **Main.Kits:** Add products to kit. | 
-| `/api/v1/kits/:id` | DELETE | JSON | NONE | **Main.Kits:** Delete kit. | 
-| `/api/v1/products/kits` | GET | JSON | NONE | **Main.Products:** Search for kit by product. | 
-| `/api/v1/kits` | GET | JSON | NONE | **Main.Kits:** Get all kits. Retrieves the complete list of available kits. |
-| `/api/v1/kits?cardId={id}` | GET | JSON | NONE | **Main.Kits:** Get kit by Card ID. Filters and retrieves a specific kit. |
-| `/order-and-go/v1/delivery` | POST | JSON | NONE | **Couriers:** "Order and Go" delivery validation. |
+| `/api/v1/courier/:id/ordersCount` | GET | JSON | NONE | Couriers - Get courier order count. |
+| `/api/v1/courier` | POST | JSON | NONE | Create courier. |
+| `/api/v1/courier/login` | POST | JSON | NONE | Courier system login. |
+| `/api/v1/courier/:id` | DELETE | JSON | NONE | Delete courier. | 
+| `/api/v1/orders/accept/:id` | PUT | JSON | NONE | Accept order. | 
+| `/api/v1/orders/cancel` | PUT | JSON | NONE | Cancel Order. | 
+| `/api/v1/orders/finish/:id` | PUT | JSON | NONE | Complete Order. |
+| `/api/v1/orders` | POST | JSON | NONE | Create Order. |
+| `/api/v1/orders/track` | GET | JSON | NONE | Get order by number. |
+| `/api/v1/orders` | GET | JSON | NONE | Get order list. |
 
 > **Note:** The full documentation is integrated within the project container. I have included an export of the Postman collection with request examples in the `/docs` folder.
 </details>
