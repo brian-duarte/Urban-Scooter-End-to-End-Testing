@@ -77,3 +77,33 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 https://github.com/user-attachments/assets/9bbe59e1-3273-41f9-a6dc-9b710c3df4a5
 
 
+## 📑 Test Planning & Strategy
+
+<table width="100%">
+<tr>
+<td width="30%"><b>🎯 Scope</b></td>
+<td>Comprehensive manual functional, UI, and backend validation for the <b>Urban Scooter</b> platform. This includes end-to-end ordering flows, mobile app behavior (Android), REST API endpoint verification, and database integrity checks.</td>
+</tr>
+
+<tr>
+<td><b>✅ In Scope</b></td>
+<td>Mobile App Testing (Interruption & UI), API Testing (Endpoint validation & Edge cases), Database Validation (SQL), and Defect Management in Jira.</td>
+</tr>
+
+<tr>
+<td><b>🚫 Out of Scope</b></td>
+<td>Test Automation (Scripts), Performance/Load Testing, and Security Penetration Testing.</td>
+</tr>
+
+<tr>
+<td><b>✅ Entry Criteria</b></td>
+<td>Stable APK build for Urban Scooter, API documentation (Swagger/Postman) available, access to the PostgreSQL database, and Jira project environment configured.</td>
+</tr>
+
+<tr>
+<td><b>🏁 Exit Criteria</b></td>
+<td>All planned Web, Mobile, API, and Database test scenarios executed, critical defects documented in <b>Jira</b>, and final validation results reviewed and approved.</td>
+</tr>
+</table>
+
+
