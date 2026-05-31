@@ -47,3 +47,28 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 
 > **Note:** The full documentation is integrated within the project container. I have included an export of the Postman collection with request examples in the `/docs` folder.
 </details>
+
+---
+
+## ✅ Activities Performed
+
+• 🖥️ Executed 320+ test scenarios covering Web, Mobile, and REST APIs.
+
+• 🧠 Applied **Boundary Value Analysis**, **Equivalence Partitioning,** and **Negative Testing** techniques.
+
+• 🔄 Validated **cross-platform** synchronization between backend services, web applications, and mobile devices.
+
+• 🛠️ Performed **API** testing using Postman, verifying business rules, authentication, error handling, and data integrity.
+
+• 🐘 Executed **PostgreSQL** queries to validate backend data integrity and confirm synchronization between APIs, web interfaces, mobile applications, and database records.
+
+• 📊 Reported and **tracked 50+ defects in Jira** with detailed evidence and reproducible test steps.
+
+## 🎥 End-to-End Demonstration
+
+> This video showcases the complete validation workflow of the Urban Scooter platform, Covering Web, Mobile, API testing activities and SQL database validation.
+
+
+https://github.com/user-attachments/assets/9bbe59e1-3273-41f9-a6dc-9b710c3df4a5
+
+
