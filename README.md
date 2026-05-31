@@ -28,7 +28,7 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 #### 🗄️ SQL DataBase:
 
 * [scooter_rent_database_queries.sql](scripts/scooter_rent_database_queries.sql)
-* [Orders Confirmation](./assert/imagen/Orders_Confirmation.png)
+* [Order Confirmation](./assert/imagen/Order_Confirmation.png)
 
 <details>
     <summary><b><i>Click here to view 🚀 API Documentation</i></b></summary><br>
