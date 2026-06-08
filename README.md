@@ -31,12 +31,9 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 * [scooter_rent_database_queries.sql](scripts/scooter_rent_database_queries.sql)
 * [Order Confirmation](./assert/imagen/Order_Confirmation.png)
 
-<details>
-    <summary><b><i>Click here to view 🚀 API Documentation</i></b></summary><br>
-
-   **🚀 API Documentation (Endpoints):**
+#### 🚀 API Documentation (Endpoints):
    
-  The project includes REST API validation for courier and order management services.
+>  The project includes REST API validation for courier and order management services.
 
 | Endpoint | Method | Format | Auth | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -52,7 +49,7 @@ This project focuses on the quality assurance process for the "Urban Scooter" ap
 | `/api/v1/orders` | GET | JSON | NONE | Get order list. |
 
 > **Note:** The full documentation is integrated within the project container. I have included an export of the Postman collection with request examples in the `/docs` folder.
-</details>
+
 
 ---
 
