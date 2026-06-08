@@ -1,5 +1,5 @@
 # Urban-Scooter-End-to-End-Testing
-> A full-cycle testing project covering Mobile, Web, and API validation for a scooter rental platform.
+> A full-cycle testing project covering Mobile, Web, API and SQL validation for a scooter rental platform.
 
 <p align="left">
   <img src="assert/imagen/Urban-Scooter-Platform.png" alt="Urban-Scooter-Platform" width="800">
